@@ -1,0 +1,3 @@
+= Teaching material for programming courses
+
+This organisation contains material for various programming and some maths courses.
