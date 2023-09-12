@@ -1,0 +1,8 @@
+= Teaching material for programming courses
+
+This is the special repository used to provide information about the GitHub
+organization https://github.com/rhcourses[`rhcourses`].
+
+For now, it only contains a link:profile/README.adoc[readme file] that is displayed
+on the organization's main page.
+It may be extended in the future to provide more information.
